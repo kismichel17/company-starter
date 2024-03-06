@@ -1,0 +1,10 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "company.object-mapper.write-instant-as-timestamp",
+      "type": "java.lang.Boolean",
+      "defaultValue": false
+    }
+  ]
+}

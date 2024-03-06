@@ -1,0 +1,3 @@
+company:
+  object-mapper:
+    write-instant-as-timestamp: false
